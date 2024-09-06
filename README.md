@@ -1,3 +1,5 @@
+<html>
+  <body>
 <!-- Comment Section -->
 <div id="comments">
   <h2>Comments</h2>
@@ -24,3 +26,5 @@
     document.getElementById('comment').value = ''; // Clear input field
   });
 </script>
+</body>
+</html>
